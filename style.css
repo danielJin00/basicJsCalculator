@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+}
+button {
+    height: 30px;
+    width: 30px;
+    padding: 0 20%;
+    margin: 10px 50px;
+}
+h1 {
+    text-align: center;
+}
+
+#output {
+    text-align: center;
+}
+#calculator{
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+#equal{
+    height: 100px;
+    width: 20px;
+    margin: 0 38% 0 56.5%;
+    position: relative;
+    top: -210px;
+}
+
+#equalbutton{
+    width: 50px;
+    height: 160px;
+
+}
